@@ -39,7 +39,7 @@ Discover the primary research projects currently driving our lab's scientific mi
 {% endcapture %}
 {%
   include feature.html
-  image="images/logo.jpg"
+  image="images/MUNC_structure.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -60,7 +60,7 @@ Meet the researchers behind the RP Lab — our team of scientists passionate abo
 {% endcapture %}
 {%
   include feature.html
-  image="images/logo.png"
+  image="images/Mice.png"
   link="team"
   title="Our Team"
   text=text
@@ -79,9 +79,11 @@ Access our standard lab protocols and experimental methods.
 {% endcapture %}
 {%
   include feature.html
-  image="images/logo.jpg"
+  image="images/Organoid_transduction.jpg"
   link="protocols"
   title="Protocols"
+  flip=true
+  style="bare"
   text=text
 %}
 
@@ -98,7 +100,7 @@ Guidelines, expectations, and resources for RP Lab members.
 {% endcapture %}
 {%
   include feature.html
-  image="images/logo.png"
+  image="images/Premalignancy.png"
   link="manual"
   title="Lab Manual"
   flip=true
