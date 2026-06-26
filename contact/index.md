@@ -7,7 +7,6 @@ nav:
 
 # Contact
 
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
 {%
   include button.html
   type="email"
@@ -61,7 +60,7 @@ nav:
 
 {% capture col2 %}
 <div style="text-align: center;">
-### {% include icon.html icon="fa-solid fa-location-dot" %}Address
+Address
 **[Department of Cancer Biology](https://www.luc.edu/stritch/cancerbiology/)**  
 Loyola University Chicago  
 Stritch School of Medicine  
