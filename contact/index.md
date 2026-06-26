@@ -7,27 +7,26 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is located in the Cardinal Bernardin Cancer Center at Loyola University Chicago.
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="rprzanowska at luc dot edu"
+  link="rprzanowska@luc.edu"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="RP lab phone"
+  link="+1-434-260-1835"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/2160+S+1st+Ave,+Maywood,+IL+60153/data=!4m2!3m1!1s0x880e35788abe158b:0x692f31330a04c8b2?sa=X&ved=1t:242&ictx=111"
 %}
 
 {% include section.html %}
@@ -36,8 +35,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/stritch-exterior.jpg"
+  caption="Stritch School of Medicine"
 %}
 
 {% endcapture %}
@@ -46,8 +45,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/cardinal-bernardin-cancer-center.jpg"
+  caption="Cardinal Bernardin Cancer Center"
 %}
 
 {% endcapture %}
@@ -57,9 +56,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Department of Cancer Biology
+Loyola University Chicago
+Stritch School of Medicine Health Sciences Division
+Cardinal Bernardin Cancer Center
+2160 S. First Ave., Bldg 112, Rm 303
+Maywood, IL 60153
 {% endcapture %}
 
 {% capture col2 %}
