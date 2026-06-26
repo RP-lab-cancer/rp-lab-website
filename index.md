@@ -48,6 +48,25 @@ Discover the primary research projects currently driving our lab's scientific mi
 %}
 
 {% capture text %}
+Meet the researchers behind the RP Lab — our team of scientists passionate about RNA biology and cancer research.
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/Mice.png"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+{% capture text %}
 Access our standard lab protocols and experimental methods.
 {%
   include button.html
@@ -84,24 +103,5 @@ Guidelines, expectations, and resources for RP Lab members.
   title="Lab Manual"
   flip=true
   style="bare"
-  text=text
-%}
-
-{% capture text %}
-Meet the researchers behind the RP Lab — our team of scientists passionate about RNA biology and cancer research.
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/Mice.png"
-  link="team"
-  title="Our Team"
   text=text
 %}
