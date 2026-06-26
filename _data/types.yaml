@@ -4,7 +4,11 @@
 
 principal-investigator:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Assistant Professor
+
+research-assistant-professor:
+  icon: fa-solid fa-microscope
+  description: Research Assistant Professor
 
 postdoc:
   icon: fa-solid fa-glasses
