@@ -14,7 +14,8 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-"You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful." — Maria Skłodowska-Curie
+"You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful." 
+— Maria Skłodowska-Curie
 
 {% include section.html %}
 
