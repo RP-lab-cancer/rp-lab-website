@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Patient-derived response estimates from zero-passage organoids of luminal breast cancer" style="rich" %}
 
 {% include section.html %}
 
