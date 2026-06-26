@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
 {%
   include button.html
@@ -34,6 +34,7 @@ nav:
   include figure.html
   image="images/stritch-exterior.jpg"
   caption="Stritch School of Medicine"
+  link="https://www.luc.edu/stritch/"
 %}
 
 {% endcapture %}
@@ -44,6 +45,7 @@ nav:
   include figure.html
   image="images/cardinal-bernardin-cancer-center.jpg"
   caption="Cardinal Bernardin Cancer Center"
+  link="https://www.loyolamedicine.org/location/cardinal-bernardin-cancer-center"
 %}
 
 {% endcapture %}
@@ -53,12 +55,12 @@ nav:
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Department of Cancer Biology
-Loyola University Chicago
-Stritch School of Medicine Health Sciences Division
-Cardinal Bernardin Cancer Center
-2160 S. First Ave., Bldg 112, Rm 303
-Maywood, IL 60153
+**[Department of Cancer Biology](https://www.luc.edu/stritch/cancerbiology/)**  
+Loyola University Chicago  
+Stritch School of Medicine  
+Cardinal Bernardin Cancer Center  
+2160 S. First Ave., Bldg 112, Rm 303  
+Maywood, IL 60153  
 {% endcapture %}
 
 {% capture col2 %}
