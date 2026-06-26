@@ -2,14 +2,18 @@
 name: Róża K. Przanowska
 image: images/RKP_headshot.jpg
 role: principal-investigator
-affiliation: Cancer biology
-affiliation: RNA biology
+affiliation: Cancer biology, RNA biology
 aliases:
   - R. Przanowska
   - R Przanowska
 links:
   home-page: https://rp-lab.org
+  email: rprzanowska@luc.edu
   orcid: 0000-0003-1278-6242
+  google-scholar: https://scholar.google.com/citations?user=jSZKh4gAAAAJ&hl=pl
+  github: https://github.com/RP-lab-cancer
+  linkedin: https://www.linkedin.com/in/r%C3%B3%C5%BCa-przanowska-459658174/
+  bluesky: https://bsky.app/profile/rprzanowska.bsky.social
   twitter: rprzanowska
 ---
 
