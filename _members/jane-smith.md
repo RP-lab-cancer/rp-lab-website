@@ -1,20 +1,27 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Róża K. Przanowska
+image: images/RKP_headshot.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Loyola University Chicago
 aliases:
-  - J. Smith
-  - J Smith
+  - R. Przanowska
+  - R Przanowska
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://rp-lab.org
+  orcid: 0000-0003-1278-6242
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+**Education:**
+
+Postdoc in Cancer Biology, Biomedical Engineering, University of Virginia (Advisor: Dr. Kevin Janes)
+
+PhD in Biochemistry and Molecular Genetics, University of Virginia (Advisor: Dr. Anindya Dutta)
+
+MSc in Biotechnology: Stem cells in biology and medicine, University of Warsaw, Poland (Advisor: Dr. Andrzej Dziembowski)
+
+BSc in Biotechnology, University of Warsaw, Poland (Advisor: Dr. Andrzej Dziembowski)
+
+
+Dr. Róża Kamila Przanowska is a Polish molecular biologist specializing in non-coding RNAs in cancer and development. Her research focuses on lncRNAs that drive cellular heterogeneity in estrogen receptor–positive breast cancer, alongside translational efforts developing zero-passage patient-derived organoids. Dr. Przanowska has received multiple awards recognizing her research, mentoring, leadership, and service, including the F99/K00 transition award from the National Cancer Institute and Mentor of the Year award from the Polonium Foundation.
+
+Hobbies: cooking, reading, board games, a cappella singing 
