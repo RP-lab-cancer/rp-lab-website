@@ -55,6 +55,10 @@ nav:
 {% include section.html dark=true %}
 
 {% capture col1 %}
+
+{% endcapture %}
+
+{% capture col2 %}
 **[Department of Cancer Biology](https://www.luc.edu/stritch/cancerbiology/)**  
 Loyola University Chicago  
 Stritch School of Medicine  
@@ -63,16 +67,8 @@ Cardinal Bernardin Cancer Center
 Maywood, IL 60153  
 {% endcapture %}
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
