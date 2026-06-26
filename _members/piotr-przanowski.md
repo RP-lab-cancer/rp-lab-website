@@ -2,13 +2,15 @@
 name: Piotr Przanowski
 image: images/PP_headshot.jpg
 role: research-assistant-professor
-affiliation: Cancer biology, Transient oncogenes
+affiliation: Cancer biology, Epigenetics, Immunology
 aliases:
-  - P. Przanowski
-  - P Przanowski
+  - Przanowski
 links:
   home-page: https://rp-lab.org
+  email: pp9z@virginia.edu
   orcid: 0000-0002-9191-4769
+  google-scholar: https://scholar.google.com/citations?user=ejZ3BnIAAAAJ&hl=en
+  external: https://hemaratings.com/fighters/details/1819/
 ---
 
 **Education:**
