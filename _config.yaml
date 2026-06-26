@@ -1,6 +1,7 @@
 # site properties and page defaults
 title: RP Cancer Research Lab @ Loyola University Chicago
-subtitle: "Whatever inspiration is, it's born from a continuous 'I don't know'" — Wisława Szymborska
+subtitle:  >-
+  "Whatever inspiration is, it's born from a continuous 'I don't know'" — Wisława Szymborska
 description: Welcome to the RP Lab at Loyola University Chicago. We study how long non-coding RNAs (lncRNAs) drive heterogeneity in ER+ breast cancer through their structure and function, and how transient oncogenes and premalignant microenvironments govern the earliest steps of malignant transformation. Our translational research integrates primary patient-derived organoids, mouse models, molecular approaches, and computational biology to connect fundamental discoveries in RNA biology and cancer genetics to novel therapeutic and diagnostic strategies.
 header: images/logo_biel.png
 footer: images/logo_czerń.png
