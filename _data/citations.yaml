@@ -1,209 +1,284 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.01.29.702661
+  title: IL-6R blockade with tocilizumab disrupts pericyte-and tumor cell-driven IL-6/STAT3
+    signaling, enhancing docetaxel efficacy in ER+ breast cancer
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Roza Kamila Przanowska
+  - Jacky Gomez-Villa
+  - Victoria J. Liu
+  - Natalia Antonides-Jensen
+  - Lavanya Visvabharathy
+  - John C. Alverdy
+  - Sonia L. Hernandez
+  - Samantha S. Yee
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2026-01-30'
+  link: https://doi.org/hb8tp7
+  orcid: 0000-0003-1278-6242
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.jbc.2025.110172
+  title: "A 36-base hairpin within lncRNA DRAIC, which is modulated by alternative\
+    \ splicing, interacts with the IKK\u03B1 coiled-coil domain and inhibits NF-\u03BA\
+    B and tumor cell phenotypes"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Xiaoxiao Hao
+  - Yuechuan Chen
+  - Divya Sahu
+  - "R\xF3\u017Ca K. Przanowska"
+  - Mujawar Aaiyas
+  - Chase A. Weidmann
+  - Isaac Nardi
+  - Kevin M. Weeks
+  - Anindya Dutta
+  publisher: Journal of Biological Chemistry
+  date: '2025-06-01'
+  link: https://doi.org/hb8tp8
+  orcid: 0000-0003-1278-6242
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.7554/eLife.102915
+  title: DNA replication in primary hepatocytes without the six-subunit ORC
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - "R\xF3\u017Ca K Przanowska"
+  - Yuechuan Chen
+  - Takayuki-Okano Uchida
+  - Etsuko Shibata
+  - Xiaoxiao Hao
+  - Isaac Segura Rueda
+  - Kate Jensen
+  - Piotr Przanowski
+  - Anthony Trimboli
+  - Yoshiyuki Shibata
+  - Gustavo Leone
+  - Anindya Dutta
+  publisher: eLife
+  date: '2025-04-30'
+  link: https://doi.org/hb8tp9
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13058-024-01931-5
+  title: Patient-derived response estimates from zero-passage organoids of luminal
+    breast cancer
+  authors:
+  - "R\xF3\u017Ca K. Przanowska"
+  - Najwa Labban
+  - Piotr Przanowski
+  - Russell B. Hawes
+  - Kristen A. Atkins
+  - Shayna L. Showalter
+  - Kevin A. Janes
+  publisher: Breast Cancer Research
+  date: '2024-12-31'
+  link: https://doi.org/hb8tqb
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42003-023-04611-w
+  title: ANKLE1 cleaves mitochondrial DNA and contributes to cancer risk by promoting
+    apoptosis resistance and metabolic dysregulation
+  authors:
+  - Piotr Przanowski
+  - "R\xF3\u017Ca K. Przanowska"
+  - Michael J. Guertin
+  publisher: Communications Biology
+  date: '2023-03-01'
+  link: https://doi.org/hb8tqc
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.277559.122
+  title: Kinetic networks identify TWIST2 as a key regulatory node in adipogenesis
+  authors:
+  - Arun B. Dutta
+  - Daniel S. Lank
+  - Roza K. Przanowska
+  - Piotr Przanowski
+  - Lixin Wang
+  - Bao Nguyen
+  - Ninad M. Walavalkar
+  - Fabiana M. Duarte
+  - Michael J. Guertin
+  publisher: Genome Research
+  date: '2023-02-21'
+  link: https://doi.org/gsg54f
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2022.110361
+  title: Distinct MUNC lncRNA structural domains regulate transcription of different
+    promyogenic factors
+  authors:
+  - Roza K. Przanowska
+  - Chase A. Weidmann
+  - Shekhar Saha
+  - Magdalena A. Cichewicz
+  - Kate N. Jensen
+  - Piotr Przanowski
+  - Patrick S. Irving
+  - Kevin A. Janes
+  - Michael J. Guertin
+  - Kevin M. Weeks
+  - Anindya Dutta
+  publisher: Cell Reports
+  date: '2022-02-01'
+  link: https://doi.org/hb8tqd
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18130/frkw-fd05
+  title: Essentiality and Functional Importance of Short and Long Non-coding RNAs
+    in Myogenesis
+  authors:
+  - Roza Przanowska
+  publisher: University of Virginia
+  date: '2021-06-25'
+  link: https://doi.org/hb8tqf
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/nyas.14713
+  title: "Noncoding RNAs: biology and applications\u2014a Keystone Symposia report"
+  authors:
+  - Jennifer Cable
+  - Edith Heard
+  - Tetsuro Hirose
+  - Kannanganattu V. Prasanth
+  - "Ling\u2010Ling Chen"
+  - Jonathan E. Henninger
+  - Sofia A. Quinodoz
+  - David L. Spector
+  - Sarah D. Diermeier
+  - Allison M. Porman
+  - Dhiraj Kumar
+  - Mark W. Feinberg
+  - Xiaohua Shen
+  - Juan Pablo Unfried
+  - Rory Johnson
+  - "Chun\u2010Kan Chen"
+  - Jeremy E. Wilusz
+  - Adelheid Lempradl
+  - Sean E. McGeary
+  - Lamia Wahba
+  - Anna Marie Pyle
+  - Amanda E. Hargrove
+  - Matthew D. Simon
+  - Marco Marcia
+  - "R\xF3\u017Ca K. Przanowska"
+  - Howard Y. Chang
+  - Samie R. Jaffrey
+  - Lydia M. Contreras
+  - Qi Chen
+  - Junchao Shi
+  - Joshua T. Mendell
+  - Lin He
+  - Erwei Song
+  - John L. Rinn
+  - Mukesh Kumar Lalwani
+  - Murat Can Kalem
+  - Edward B. Chuong
+  - Lynne E. Maquat
+  - Xuhang Liu
+  publisher: Annals of the New York Academy of Sciences
+  date: '2021-11-17'
+  link: https://doi.org/gskxnj
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-020-0718-7
+  title: The pan-cancer landscape of prognostic germline variants in 10,582 patients
+  authors:
+  - Ajay Chatrath
+  - Roza Przanowska
+  - Shashi Kiran
+  - Zhangli Su
+  - Shekhar Saha
+  - Briana Wilson
+  - Takaaki Tsunematsu
+  - Ji-Hye Ahn
+  - Kyung Yong Lee
+  - Teressa Paulsen
+  - Ewelina Sobierajska
+  - Manjari Kiran
+  - Xiwei Tang
+  - Tianxi Li
+  - Pankaj Kumar
+  - Aakrosh Ratan
+  - Anindya Dutta
+  publisher: Genome Medicine
+  date: '2020-02-17'
+  link: https://doi.org/gjmxsn
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1096/fj.201902855RR
+  title: "<i>miR\u2010206</i>\n                    family is important for mitochondrial\
+    \ and muscle function, but not essential for myogenesis in vitro"
+  authors:
+  - Roza K. Przanowska
+  - Ewelina Sobierajska
+  - Zhangli Su
+  - Kate Jensen
+  - Piotr Przanowski
+  - Sarbajeet Nagdas
+  - Jennifer A. Kashatus
+  - David F. Kashatus
+  - Sanchita Bhatnagar
+  - John R. Lukens
+  - Anindya Dutta
+  publisher: The FASEB Journal
+  date: '2020-04-11'
+  link: https://doi.org/gpnfrd
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15476286.2020.1721047
+  title: tRNA-derived fragments and microRNAs in the maternal-fetal interface of a
+    mouse maternal-immune-activation autism model
+  authors:
+  - Zhangli Su
+  - Elizabeth L. Frost
+  - Catherine R. Lammert
+  - Roza K. Przanowska
+  - John R. Lukens
+  - Anindya Dutta
+  publisher: RNA Biology
+  date: '2020-01-31'
+  link: https://doi.org/gsvfcj
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/MCB.00655-17
+  title: "MUNC, an Enhancer RNA Upstream from the\n                    <i>MYOD</i>\n\
+    \                    Gene, Induces a Subgroup of Myogenic Transcripts in\n   \
+    \                 <i>trans</i>\n                    Independently of MyoD"
+  authors:
+  - Magdalena A. Cichewicz
+  - Manjari Kiran
+  - "R\xF3\u017Ca K. Przanowska"
+  - Ewelina Sobierajska
+  - Yoshiyuki Shibata
+  - Anindya Dutta
+  publisher: Molecular and Cellular Biology
+  date: '2018-10-01'
+  link: https://doi.org/gfdmb7
+  orcid: 0000-0003-1278-6242
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.13.669694
+  title: Fast, flexible, learning-free organoid quantification and tracking with OrganoSeg2
+  authors:
+  - Cameron J. Wells
+  - Najwa Labban
+  - Shayna L. Showalter
+  - Roza K. Przanowska
+  - Kevin Janes
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2025-08-16'
+  link: https://doi.org/hb8tqg
+  orcid: 0000-0003-1278-6242
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +294,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +310,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
