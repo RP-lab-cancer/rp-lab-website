@@ -103,7 +103,5 @@ Guidelines, expectations, and resources for RP Lab members.
   image="images/Premalignancy.png"
   link="manual"
   title="Lab Manual"
-  flip=true
-  style="bare"
   text=text
 %}
