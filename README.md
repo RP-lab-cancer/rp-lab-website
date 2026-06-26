@@ -5,6 +5,6 @@
 
   # RP-lab-cancer's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[rp-lab-cancer.github.io/rp-lab-website](https://rp-lab-cancer.github.io/rp-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
