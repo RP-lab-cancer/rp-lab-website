@@ -5,8 +5,6 @@ Welcome to the RP Lab at Loyola University Chicago. We study how long non-coding
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 Explore our publications spanning lncRNA biology, breast cancer genetics, patient-derived organoids, and epigenetic mechanisms of malignant transformation.
 {%
