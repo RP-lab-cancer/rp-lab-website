@@ -20,7 +20,7 @@ Explore our publications spanning lncRNA biology, breast cancer genetics, patien
 {% endcapture %}
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/EdU_organoid.png"
   link="research"
   title="Our Research"
   text=text
