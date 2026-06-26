@@ -17,8 +17,8 @@ links:
 
 Postdoc in Cancer Biology, University of Virginia | Advisors: Dr. Michael Guertin, Dr. Kevin Janes, Dr. Hui Zong
 PhD in Nencki Institute of Experimental Biology, Warsaw, Poland | Advisor: Dr. Bożena Kamińska-Kaczmarek
-MSc in Biotechnology, University of Warsaw, Poland
-BSc in Biotechnology, University of Warsaw, Poland 
+MSc in Biotechnology, University of Warsaw, Poland |   
+BSc in Biotechnology, University of Warsaw, Poland |   
 
 Dr. Piotr Przanowski is a Polish molecular biologist.
 
