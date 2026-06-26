@@ -1,9 +1,8 @@
 ---
 name: Piotr Przanowski
 image: images/PP_headshot.jpg
-role: principal-investigator
-affiliation: Cancer biology
-affiliation: Transient oncogenes
+role: research-assistant-professor
+affiliation: Cancer biology, Transient oncogenes
 aliases:
   - P. Przanowski
   - P Przanowski
