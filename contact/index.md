@@ -7,9 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located in the Cardinal Bernardin Cancer Center at Loyola University Chicago.
-
-
 {%
   include button.html
   type="email"
