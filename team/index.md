@@ -23,8 +23,8 @@ nav:
 {% capture content %}
 
 {% include figure.html image="images/Sectioning.png" %}
-{% include figure.html image="images/ice_bucket.jpg" %}
 {% include figure.html image="images/Organoid_NucView.jpg" %}
+{% include figure.html image="images/ice_bucket.jpg" %}
 
 {% endcapture %}
 
