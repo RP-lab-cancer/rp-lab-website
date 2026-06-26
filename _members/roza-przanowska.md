@@ -4,8 +4,7 @@ image: images/RKP_headshot.jpg
 role: principal-investigator
 affiliation: Cancer biology, RNA biology
 aliases:
-  - R. Przanowska
-  - R Przanowska
+  - Przanowska
 links:
   home-page: https://rp-lab.org
   email: rprzanowska@luc.edu
