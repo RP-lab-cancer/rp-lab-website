@@ -3,8 +3,8 @@
 
 .background {
   position: relative;
-  background: var(--background);
-  color: var(--text);
+  background: #5a0722;
+  color: #ffffff;
   z-index: 1;
 }
 
@@ -16,6 +16,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  opacity: 0.25;
+  opacity: 0.15;
   z-index: -1;
 }
