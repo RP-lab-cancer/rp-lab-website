@@ -59,8 +59,6 @@ nav:
 {% endcapture %}
 
 {% capture col2 %}
-<div style="text-align: center;">
-Address
 **[Department of Cancer Biology](https://www.luc.edu/stritch/cancerbiology/)**  
 Loyola University Chicago  
 Stritch School of Medicine  
