@@ -18,16 +18,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+"You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful." — Maria Skłodowska-Curie
 
 {% include section.html %}
 
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/ice_bucket.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
