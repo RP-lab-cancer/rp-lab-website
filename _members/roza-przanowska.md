@@ -14,8 +14,8 @@ links:
 ---
 
 **Education:**
-Position | Major | Department | Institution | Advisor
-Postdoc | Cancer Biology | Biomedical Engineering | University of Virginia | Dr. Kevin Janes
+
+Postdoc in Cancer Biology, Biomedical Engineering, University of Virginia | Advisor: Dr. Kevin Janes
 PhD in Biochemistry and Molecular Genetics, University of Virginia | Advisor: Dr. Anindya Dutta
 MSc in Biotechnology: Stem cells in biology and medicine, University of Warsaw, Poland | Advisor: Dr. Andrzej Dziembowski
 BSc in Biotechnology, University of Warsaw, Poland | Advisor: Dr. Andrzej Dziembowski
