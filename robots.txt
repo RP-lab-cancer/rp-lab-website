@@ -1,1 +1,1 @@
-Sitemap: http://rp-lab.org/sitemap.xml
+Sitemap: https://rp-lab.org/sitemap.xml
