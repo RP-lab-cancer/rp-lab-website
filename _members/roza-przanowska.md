@@ -10,6 +10,7 @@ aliases:
 links:
   home-page: https://rp-lab.org
   orcid: 0000-0003-1278-6242
+  twitter: rprzanowska
 ---
 
 **Education:**
