@@ -18,13 +18,12 @@ Dr. Piotr Przanowski is a Polish molecular biologist whose research spans cancer
 Hobbies: family time, HEMA - Historical European Martial Arts, board games, sci-fi writing
 
 
-**Education:**
-
+###**Education:**
 | Degree | Institution | Advisor |
 |--------|-------------|---------|
-| Postdoc in Cancer Biology | University of Virginia | Advisors: Dr. Kevin Janes and Dr. Hui Zong |
-| Postdoc in Cancer Genomics | University of Virginia | Advisor: Dr. Michael Guertin |
-| Postdoc in Epigenetics | University of Virginia | Advisor: Dr. Sanchita Bhatnagar |
-| PhD in Cancer Immunology | Nencki Institute of Experimental Biology, Warsaw, Poland | Advisor: Dr. Bożena Kamińska-Kaczmarek |
+| Postdoc in Cancer Biology | University of Virginia | Kevin Janes, Ph.D. and Hui Zong, Ph.D. |
+| Postdoc in Cancer Genomics | University of Virginia | Michael Guertin, Ph.D. |
+| Postdoc in Epigenetics | University of Virginia | Sanchita Bhatnagar, Ph.D. |
+| PhD in Cancer Immunology | Nencki Institute of Experimental Biology, Warsaw, Poland | Bożena Kamińska-Kaczmarek, Ph.D. |
 | MSc in Biotechnology | University of Warsaw, Poland |    |
 | BSc in Biotechnology | University of Warsaw, Poland |    |
