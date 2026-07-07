@@ -22,6 +22,7 @@ Hobbies: family time, cooking, reading, board games, a cappella singing
 
 
 **Education:**
+
 | Degree | Institution | Advisor |
 |--------|-------------|---------|
 | Postdoc in Cancer Biology | Biomedical Engineering, University of Virginia | Kevin Janes, Ph.D. |
