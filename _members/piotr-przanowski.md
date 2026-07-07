@@ -19,6 +19,9 @@ Hobbies: family time, HEMA - Historical European Martial Arts, board games, sci-
 
 
 **Education:**
+
+| Degree | Institution | Advisor |
+|--------|-------------|---------|
 | Postdoc in Cancer Biology | University of Virginia | Advisors: Dr. Kevin Janes and Dr. Hui Zong |
 | Postdoc in Cancer Genomics | University of Virginia | Advisor: Dr. Michael Guertin |
 | Postdoc in Epigenetics | University of Virginia | Advisor: Dr. Sanchita Bhatnagar |
