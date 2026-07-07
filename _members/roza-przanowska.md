@@ -22,7 +22,9 @@ Hobbies: family time, cooking, reading, board games, a cappella singing
 
 
 **Education:**
-| Postdoc in Cancer Biology | Biomedical Engineering, University of Virginia | Advisor: Dr. Kevin Janes |
-| PhD in Biomedical Sciences | Biochemistry and Molecular Genetics, University of Virginia | Advisor: Dr. Anindya Dutta |
-| MSc in Biotechnology, Stem cells in biology and medicine | University of Warsaw, Poland | Advisor: Dr. Andrzej Dziembowski |
-| BSc in Biotechnology | University of Warsaw, Poland | Advisor: Dr. Andrzej Dziembowski |
+| Degree | Institution | Advisor |
+|--------|-------------|---------|
+| Postdoc in Cancer Biology | Biomedical Engineering, University of Virginia | Kevin Janes, Ph.D. |
+| PhD in Biomedical Sciences | Biochemistry and Molecular Genetics, University of Virginia | Anindya Dutta, MBBS, Ph.D. |
+| MSc in Biotechnology, Stem cells in biology and medicine | University of Warsaw, Poland | Andrzej Dziembowski, Ph.D. |
+| BSc in Biotechnology | University of Warsaw, Poland | Andrzej Dziembowski, Ph.D. |
