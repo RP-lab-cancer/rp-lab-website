@@ -6,7 +6,7 @@ Welcome to the RP Lab at Loyola University Chicago. We study how long non-coding
 {% include section.html %}
 
 {% capture text %}
-Discover the primary research projects currently driving our lab's scientific mission.
+Discover the primary research projects driving our lab's scientific mission.
 {%
   include button.html
   link="projects"
