@@ -6,25 +6,6 @@ Welcome to the RP Lab at Loyola University Chicago. We study how long non-coding
 {% include section.html %}
 
 {% capture text %}
-Explore our publications spanning lncRNA biology, breast cancer genetics, patient-derived organoids, and epigenetic mechanisms of malignant transformation.
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-{% endcapture %}
-{%
-  include feature.html
-  image="images/Organoid_IF.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
 Discover the primary research projects currently driving our lab's scientific mission.
 {%
   include button.html
@@ -40,6 +21,25 @@ Discover the primary research projects currently driving our lab's scientific mi
   image="images/MUNC_structure.jpg"
   link="projects"
   title="Our Projects"
+  text=text
+%}
+
+{% capture text %}
+Explore our manuscripts spanning lncRNA biology, breast cancer genetics, patient-derived organoids, and epigenetic mechanisms of malignant transformation.
+{%
+  include button.html
+  link="publications"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+{% endcapture %}
+{%
+  include feature.html
+  image="images/Organoid_IF.jpg"
+  link="research"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
