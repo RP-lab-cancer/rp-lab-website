@@ -1,48 +1,37 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: LncRNA Structure-Function Relationship
+  subtitle: Is there a "grammar" for lncRNA structures analogous to protein domains?
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/MUNC_structure.jpg
+  link: /projects/lncrna-structure-function
+  description: Our understanding of the lncRNA structural organization is extremely limited. Do lncRNAs have module-based structures with conserved elements like proteins, or rather is the folding of each lncRNA unique? By resolving secondary structures of lncRNAs and systematically deleting structural domains, we will test whether discrete, functionally autonomous modules govern their activity and oncogenic phenotypes.
   tags:
+    - project
     - resource
 
 - title: The Biology of Breast Cancer Initiation
-  subtitle: a subtitle
+  subtitle: Breast Cancer susceptibility genes in Ductal Carcinoma In Situ (DCIS) progression
   group: featured
   image: images/Organoid_IF.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: RP-lab-cancer/rp-lab-website/BC_initiation
+  link: /projects/BC_initiation
+  description: We investigate how rare populations of premalignant cells acquire the ability to survive and initiate breast cancer. By combining human genetics, patient samples, and experimental models, we aim to identify the molecular mechanisms that determine whether DCIS remains indolent or progresses to invasive disease.
   tags:
     - project
     - publication
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Zero-Passage Patient-Derived Organoids
+  subtitle: Modeling patient-specific responses in a two-week time frame
+  image: images/Organoid_TAM.jpg
+  link: /projects/BC_organoids
+  description: To accurately capture tumor state within patient samples, we developed a zero-passage approach to primary patient-derived breast cancer organoids. This organoid model is compatible with various combinations of pharmacological and genetic perturbations to generate conclusive results in a two-week time frame. This new system has the potential to uncover the functional role of lncRNA markers in a patient-relevant context, identify therapeutic targets against genes of interest, and finally, to guide the choice of individualized therapeutics in the clinic.
   tags:
+    - project
     - resource
     - publication
 
-- title: Cool Web App
+- title: LncRNA regulators of transcriptional plasticity and treatment resistance
   subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Organoid_resistance.jpg
+  link: /projects/resistance
+  description: While tamoxifen is effective in treating ER+ breast cancer, resistance, either intrinsic or acquired, remains a major clinical challenge. We aim to identify lncRNAs crucial for tamoxifen-resistance development that will lead to new RNA therapeutics.
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - project
