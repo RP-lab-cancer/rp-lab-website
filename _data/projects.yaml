@@ -28,4 +28,4 @@
   subtitle: Selectable lentivectors delivering dual gRNAs and destabilized Cas9
   image: images/pDual_system.jpg
   link: https://www.addgene.org/browse/article/28243978/
-  description: We designed a set of lentiviral vectors for efficient multi-sgRNA delivery to achieve maximum knockout probability in cell lines and primary patient-derived and murine organoids. To minimize off-target effects and p53 activation, Cas9 is destabilized, reducing its activity outside of the editing window.  tags:
+  description: We designed a set of lentiviral vectors for efficient multi-sgRNA delivery to achieve maximum knockout probability in cell lines and primary patient-derived and murine organoids. To minimize off-target effects and p53 activation, Cas9 is destabilized, reducing its activity outside of the editing window.
