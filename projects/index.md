@@ -8,8 +8,6 @@ nav:
 
 Welcome to the Róża&Piotr (RP) Lab at Loyola University Chicago. We study how long non-coding RNAs (lncRNAs) drive heterogeneity in ER+ breast cancer through their structure and function, and how transient oncogenes and premalignant microenvironments govern the earliest steps of malignant transformation. Our translational research integrates primary patient-derived organoids, mouse models, molecular approaches, and computational biology to connect fundamental discoveries in RNA biology and cancer genetics to novel therapeutic and diagnostic strategies.
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
