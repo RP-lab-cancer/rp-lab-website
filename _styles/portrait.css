@@ -73,4 +73,11 @@
   display: none;
 }
 
+h3 + table,
+h4 + table,
+strong + table,
+p + table {
+  margin-top: 0 !important;
+}
+
 /*# sourceMappingURL=portrait.css.map */
