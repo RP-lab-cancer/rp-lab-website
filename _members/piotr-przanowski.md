@@ -21,9 +21,8 @@ Dr. Piotr Przanowski is a Polish molecular biologist whose research spans cancer
 Hobbies: family time, HEMA - Historical European Martial Arts, board games, sci-fi writing
 
 
-  
 **EDUCATION**
-
+{:.no-margin}
 | Degree | Institution | Advisor |
 |--------|-------------|---------|
 | Postdoc in Cancer Biology | University of Virginia | Kevin Janes, Ph.D. and Hui Zong, Ph.D. |
