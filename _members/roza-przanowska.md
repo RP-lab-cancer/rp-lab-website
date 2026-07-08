@@ -18,13 +18,15 @@ links:
 
 **BIO**
 
-Dr. Róża Kamila Przanowska is a Polish molecular biologist specializing in non-coding RNAs in cancer and development. Her research focuses on lncRNAs that drive cellular heterogeneity in estrogen receptor–positive breast cancer, alongside translational efforts developing zero-passage patient-derived organoids. Dr. Przanowska has received multiple awards recognizing her research, mentoring, leadership, and service, including the F99/K00 transition award from the National Cancer Institute and the Mentor of the Year award from the Polonium Foundation.
+Dr. Róża Kamila Przanowska is a Polish molecular biologist specializing in non-coding RNAs in cancer and development. Her Ph.D. work focused on long and short non-coding RNAs in skeletal muscle differentiation and extended into cancer biology, DNA replication, the DNA damage response, and developmental disorders. The National Cancer Institute F99/K00 Award facilitated her transition to postdoctoral training focused on estrogen receptor–positive (ER+) breast cancer biology and translational research. She developed zero-passage patient-derived organoids, an innovative model to study ER+ breast cancer in the lab and alongside clinical trials. Her current research focuses on lncRNAs that drive cellular heterogeneity in ER+ breast cancer and their structure-function relationship to guide the rational design of antisense oligonucleotides for therapeutic targeting. Dr. Przanowska has received multiple awards recognizing her research, mentoring, leadership, and service, including the Mentor of the Year award from the Polonium Foundation.
 
 Hobbies: family time, cooking, reading, board games, a cappella singing 
 
 
 
+
  **EDUCATION**
+ 
 | Degree | Institution | Advisor |
 |--------|-------------|---------|
 | Postdoc in Cancer Biology | Biomedical Engineering, University of Virginia | Kevin Janes, Ph.D. |
