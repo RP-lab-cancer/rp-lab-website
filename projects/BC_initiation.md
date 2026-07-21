@@ -7,7 +7,7 @@ title: Breast Cancer Initiation
 Breast Cancer susceptibility genes in Ductal Carcinoma In Situ (DCIS) progression
 {%
   include feature.html image="images/projects/BC_initiation.jpg"
-  width="100%"
+  width="300%"
 %}
 
 ## Overview
@@ -41,4 +41,4 @@ prevention.
 
 ## Relevant Publications
 
-{% include list.html data="citations" component="citation" style="rich" filters="tags: ANKLE1" %}
+{% include citation.html lookup="ANKLE1 cleaves mitochondrial DNA and contributes to cancer risk by promoting apoptosis resistance and metabolic dysregulation" style="rich" %}
