@@ -1,6 +1,6 @@
 ---
 name: Piotr Przanowski
-image: images/PP_headshot.jpg
+image: images/members/PP_headshot.jpg
 role: research-assistant-professor
 affiliation: Cancer biology, Epigenetics, Immunology
 aliases:
@@ -29,5 +29,5 @@ Hobbies: family time, HEMA - Historical European Martial Arts, board games, sci-
 | Postdoc in Cancer Genomics | University of Virginia | Michael Guertin, Ph.D. |
 | Postdoc in Epigenetics | University of Virginia | Sanchita Bhatnagar, Ph.D. |
 | PhD in Cancer Immunology | Nencki Institute of Experimental Biology, Warsaw, Poland | Bożena Kamińska-Kaczmarek, Ph.D. |
-| MSc in Biotechnology | University of Warsaw, Poland |    |
-| BSc in Biotechnology | University of Warsaw, Poland |    |
+| MSc in Biotechnology | University of Warsaw, Poland | Elżbieta Jagusztyn-Krynicka, Ph.D. |
+| BSc in Biotechnology | University of Warsaw, Poland | Elżbieta Jagusztyn-Krynicka, Ph.D. |
