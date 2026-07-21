@@ -15,9 +15,9 @@ Within this project, we investigate the structure-function relationships of hete
 One emerging but underappreciated class of biomolecular heterogeneity involves lncRNAs, which are versatile regulators of cancer-relevant processes and highly variable in their expression, structure, and function. LncRNAs encode untranslated >200-nt RNA transcripts that impact numerous molecular processes, including cell-cycle regulation, transcription-factor binding, and protein–RNA localization. LncRNA pleiotropy stems from interactions with other biomolecules through complex base pairing into structural folds. LncRNA structural models rely on chemical probing approaches combined with sequencing. Structural domains, once identified and functionally validated, are readily disrupted by synthetic antisense oligonucleotides (ASOs) or small molecules. The breadth of lncRNAs and their low level of conservation imply highly specific functional roles that are largely undetermined. We believe that lncRNA variability in expression, structure, and function contributes to cancer growth and its sensitivity to chemo- and radiotherapy, directly affecting patient long-term outcomes.
 
 Overarching questions:
-Is there a "grammar" for lncRNA structures analogous to protein domains?
-Do lncRNAs have module-based structures with conserved elements like proteins, or rather is the folding of each lncRNA unique?
-Do lncRNAs with shared roles exhibit convergent structures?
+- Is there a "grammar" for lncRNA structures analogous to protein domains?
+- Do lncRNAs have module-based structures with conserved elements like proteins, or rather is the folding of each lncRNA unique?
+- Do lncRNAs with shared roles exhibit convergent structures?
 
 ## Relevant Publications
 
