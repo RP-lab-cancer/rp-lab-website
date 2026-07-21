@@ -2,7 +2,7 @@
 title: lncRNA Structure-Function Relationship
 ---
 
-# Long non-coding RNAs in breast cancer
+# Long non-coding RNAs in cancer
 
 Within this project, we investigate the structure-function relationships of heterogeneously expressed lncRNAs in breast cancer to identify discrete structural domains that govern their oncogenic activity and can be therapeutically targeted.
 
@@ -17,12 +17,10 @@ One emerging but underappreciated class of biomolecular heterogeneity involves l
 Overarching questions:
 - Is there a "grammar" for lncRNA structures analogous to protein domains?
 - Do lncRNAs have module-based structures with conserved elements like proteins, or rather is the folding of each lncRNA unique?
-- Do lncRNAs with shared roles exhibit convergent structures?
+- Do lncRNAs with shared oncogenic roles exhibit convergent structures?
 
 ## Relevant Publications
 
 {% include citation.html lookup="A 36-base hairpin within lncRNA DRAIC, which is modulated by alternative splicing, interacts with the IKKα coiled-coil domain and inhibits NF-κB and tumor cell phenotypes" style="rich" %}
 
 {% include citation.html lookup="Distinct MUNC lncRNA structural domains regulate transcription of different promyogenic factors" style="rich" %}
-
-{% include citation.html lookup="MUNC, an Enhancer RNA Upstream from the MYOD Gene, Induces a Subgroup of Myogenic Transcripts in trans Independently of MyoD" style="rich" %}
