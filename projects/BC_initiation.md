@@ -6,8 +6,7 @@ title: Breast Cancer Initiation
 
 Breast Cancer susceptibility genes in Ductal Carcinoma In Situ (DCIS) progression
 {%
-  include figure.html
-  image="images/BC_initiation.jpg"
+  include feature.html image="images/projects/BC_initiation.jpg"
   width="100%"
 %}
 
