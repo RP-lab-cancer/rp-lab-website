@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Coming soon...
+Welcome to news big and small from RP lab and the world of science!
 
 {% include section.html %}
 
