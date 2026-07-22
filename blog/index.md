@@ -9,7 +9,7 @@ nav:
 
 <div style="text-align: center;">
 Welcome to news big and small from RP Lab and the world of science!
-</div>div>
+</div>
 
 {% include section.html %}
 
