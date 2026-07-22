@@ -21,8 +21,6 @@ nav:
 
 {% include section.html %}
 
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
