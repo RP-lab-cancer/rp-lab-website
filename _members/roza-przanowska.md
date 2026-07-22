@@ -2,7 +2,7 @@
 name: Róża K. Przanowska
 image: images/members/RKP_headshot.jpg
 role: principal-investigator
-affiliation: Cancer biology, RNA biology
+affiliation: Cancer biology, RNA biology, Differentiation
 aliases:
   - Przanowska
 links:
