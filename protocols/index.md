@@ -12,7 +12,8 @@ Our standard lab protocols and experimental methods will be listed here.
 {% include section.html %}
 
 {% include section.html background="images/main/background.jpg" dark=true %}
-
+<div style="text-align: center;">
 "There are no miracles. There is only what one does oneself."
-
-- _Tamara de Lempicka_
+<br><br>
+— <em>Tamara de Lempicka</em>
+</div>
