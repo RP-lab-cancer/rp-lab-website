@@ -19,6 +19,7 @@ nav:
 <br><br>
 — <em>Wisława Szymborska</em>
 </div>
+
 {% include section.html %}
 
 ## All
