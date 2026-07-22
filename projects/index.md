@@ -14,7 +14,7 @@ Welcome to the Róża&Piotr (RP) Lab at Loyola University Chicago. We study how 
 <div style="text-align: center;">
 "It is most important in creative science not to give up. If you are an optimist, you will be willing to "try" more than if you are a pessimist."
 <br><br>
-- <em>Stanislaw Ulam</em>
+— <em>Stanislaw Ulam</em>
 </div>
 
 {% include section.html %}
