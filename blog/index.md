@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
+<div style="text-align: center;">
 Welcome to news big and small from RP Lab and the world of science!
+</div>div>
 
 {% include section.html %}
 
