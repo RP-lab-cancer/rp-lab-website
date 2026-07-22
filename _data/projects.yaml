@@ -1,31 +1,31 @@
 - title: LncRNA Structure-Function Relationship
   subtitle: Is there a "grammar" for lncRNA structures analogous to protein domains?
   group: featured
-  image: images/MUNC_structure.jpg
+  image: images/projects/MUNC_structure.jpg
   link: /projects/lncrna-structure-function
   description: Our understanding of the lncRNA structural organization is extremely limited. By resolving secondary structures of lncRNAs and systematically deleting structural domains, we will test whether discrete, functionally autonomous modules govern their activity and pro-oncogenic phenotypes.
 
 - title: The Biology of Breast Cancer Initiation
   subtitle: Breast Cancer susceptibility genes in Ductal Carcinoma In Situ (DCIS) progression
   group: featured
-  image: images/Organoid_IF.jpg
+  image: images/projects/Organoid_IF.jpg
   link: /projects/BC_initiation
   description: We investigate how rare populations of premalignant cells acquire the ability to survive and initiate breast cancer. By combining human genetics, patient samples, and experimental models, we aim to identify the molecular mechanisms that determine whether DCIS remains indolent or progresses to invasive disease.
 
 - title: Zero-Passage Patient-Derived Organoids
   subtitle: Modeling patient-specific responses in a two-week time frame
-  image: images/Organoid_TAM.jpg
+  image: images/projects/Organoid_TAM.jpg
   link: /projects/BC_organoids
   description: To accurately capture tumor state within patient samples, we developed a zero-passage approach to primary patient-derived breast cancer organoids. This new system directly benefits basic science and has the potential to guide the choice of individualized therapeutics in the clinic.
 
 - title: LncRNA Regulators of Transcriptional Plasticity and Treatment Resistance
   subtitle: Developing lncRNA-based biomarkers and therapies
-  image: images/Organoid_resistance.jpg
+  image: images/projects/Organoid_resistance.jpg
   link: /projects/resistance
   description: While tamoxifen is effective in treating ER+ breast cancer, resistance, either intrinsic or acquired, remains a major clinical challenge. We aim to identify lncRNAs crucial for tamoxifen-resistance development that will lead to new RNA therapeutics.
 
 - title: Genetic perturbations
   subtitle: Selectable lentivectors delivering dual gRNAs and destabilized Cas9
-  image: images/pDual_system.jpg
+  image: images/projects/pDual_system.jpg
   link: https://www.addgene.org/browse/article/28243978/
   description: We designed a set of lentiviral vectors for efficient multi-sgRNA delivery to achieve maximum knockout probability in cell lines and primary patient-derived and murine organoids. To minimize off-target effects and p53 activation, Cas9 is destabilized, reducing its activity outside of the editing window.
