@@ -6,9 +6,8 @@ Welcome to the RP Lab at Loyola University Chicago. We study how long non-coding
 {% include section.html background="images/main/background.jpg" dark=true %}
 <div style="text-align: center;">
 "Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less."  
-
-— _Maria Sklodowska-Curie_
-
+<br><br>
+— <em>Maria Skłodowska-Curie</em>
 </div>
 
 {% include section.html %}
