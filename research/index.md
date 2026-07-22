@@ -14,11 +14,11 @@ nav:
 {% include citation.html lookup="Patient-derived response estimates from zero-passage organoids of luminal breast cancer" style="rich" %}
 
 {% include section.html background="images/main/background.jpg" dark=true %}
-
+<div style="text-align: center;">
 "Whatever inspiration is, it's born from a continuous 'I don't know'" 
-
-— _Wisława Szymborska_
-
+<br><br>
+— <em>Wisława Szymborska</em>
+</div>
 {% include section.html %}
 
 ## All
