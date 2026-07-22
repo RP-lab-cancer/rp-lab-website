@@ -103,3 +103,9 @@ Guidelines, expectations, and resources for RP Lab members.
   title="Lab Manual"
   text=text
 %}
+
+{% include section.html background="images/main/background.jpg" dark=true %}
+
+"Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less" 
+
+— _Maria Sklodowska-Curie_
