@@ -10,6 +10,12 @@ Welcome to the Róża&Piotr (RP) Lab at Loyola University Chicago. We study how 
 
 {% include search-info.html %}
 
+{% include section.html background="images/main/background.jpg" dark=true %}
+
+"It is most important in creative science not to give up. If you are an optimist, you will be willing to "try" more than if you are a pessimist."
+
+- _Stanislaw Ulam_
+
 {% include section.html %}
 
 ## Featured
@@ -22,8 +28,4 @@ Welcome to the Róża&Piotr (RP) Lab at Loyola University Chicago. We study how 
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
 
-{% include section.html background="images/main/background.jpg" dark=true %}
 
-"It is most important in creative science not to give up. If you are an optimist, you will be willing to "try" more than if you are a pessimist."
-
-- _Stanislaw Ulam_
