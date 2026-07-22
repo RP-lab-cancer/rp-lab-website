@@ -18,7 +18,7 @@ Discover the primary research projects driving our lab's scientific mission.
 {% endcapture %}
 {%
   include feature.html
-  image="images/MUNC_structure.jpg"
+  image="images/main/MUNC_structure.jpg"
   link="projects"
   title="Our Projects"
   text=text
@@ -37,7 +37,7 @@ Explore our manuscripts spanning lncRNA biology, breast cancer genetics, patient
 {% endcapture %}
 {%
   include feature.html
-  image="images/Organoid_IF.jpg"
+  image="images/main/Organoid_IF.jpg"
   link="research"
   title="Our Publications"
   flip=true
@@ -58,7 +58,7 @@ Meet the researchers behind the RP Lab — our team of scientists passionate abo
 {% endcapture %}
 {%
   include feature.html
-  image="images/Mice.png"
+  image="images/main/Mice.png"
   link="team"
   title="Our Team"
   text=text
@@ -77,7 +77,7 @@ Access our standard lab protocols and experimental methods.
 {% endcapture %}
 {%
   include feature.html
-  image="images/Organoid_transduction.jpg"
+  image="images/main/Organoid_transduction.jpg"
   link="protocols"
   title="Protocols"
   flip=true
@@ -98,7 +98,7 @@ Guidelines, expectations, and resources for RP Lab members.
 {% endcapture %}
 {%
   include feature.html
-  image="images/Premalignancy.png"
+  image="images/main/Premalignancy.png"
   link="manual"
   title="Lab Manual"
   text=text
