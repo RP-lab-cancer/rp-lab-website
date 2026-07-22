@@ -26,8 +26,6 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/people/Sectioning.png" %}
-{% include figure.html image="images/people/Organoid_NucView.jpg" %}
 {% include figure.html image="images/people/ice_bucket.jpg" %}
 
 {% endcapture %}
