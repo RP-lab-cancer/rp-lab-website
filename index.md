@@ -3,6 +3,12 @@
 # Welcome to the RP Lab
 Welcome to the RP Lab at Loyola University Chicago. We study how long non-coding RNAs (lncRNAs) drive heterogeneity in ER+ breast cancer through their structure and function, and how transient oncogenes and premalignant microenvironments govern the earliest steps of malignant transformation. Our translational research integrates primary patient-derived organoids, mouse models, molecular approaches, and computational biology to connect fundamental discoveries in RNA biology and cancer genetics to novel therapeutic and diagnostic strategies.
 
+{% include section.html background="images/main/background.jpg" dark=true %}
+
+"Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less" 
+
+— _Maria Sklodowska-Curie_
+
 {% include section.html %}
 
 {% capture text %}
@@ -18,7 +24,7 @@ Discover the primary research projects driving our lab's scientific mission.
 {% endcapture %}
 {%
   include feature.html
-  image="images/main/MUNC_structure.jpg"
+  image="images/projects/MUNC_structure.jpg"
   link="projects"
   title="Our Projects"
   text=text
@@ -37,7 +43,7 @@ Explore our manuscripts spanning lncRNA biology, breast cancer genetics, patient
 {% endcapture %}
 {%
   include feature.html
-  image="images/main/Organoid_IF.jpg"
+  image="images/projects/Organoid_IF.jpg"
   link="research"
   title="Our Publications"
   flip=true
@@ -103,9 +109,3 @@ Guidelines, expectations, and resources for RP Lab members.
   title="Lab Manual"
   text=text
 %}
-
-{% include section.html background="images/main/background.jpg" dark=true %}
-
-"Nothing in life is to be feared; it is only to be understood. Now is the time to understand more, so that we may fear less" 
-
-— _Maria Sklodowska-Curie_
