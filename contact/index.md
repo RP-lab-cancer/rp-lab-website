@@ -32,7 +32,7 @@ nav:
 
 {%
   include figure.html
-  image="images/stritch-exterior.jpg"
+  image="images/contact/stritch-exterior.jpg"
   caption="Stritch School of Medicine"
   link="https://www.luc.edu/stritch/"
 %}
@@ -43,7 +43,7 @@ nav:
 
 {%
   include figure.html
-  image="images/cardinal-bernardin-cancer-center.jpg"
+  image="images/contact/cardinal-bernardin-cancer-center.jpg"
   caption="Cardinal Bernardin Cancer Center"
   link="https://www.loyolamedicine.org/location/cardinal-bernardin-cancer-center"
 %}
