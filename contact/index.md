@@ -23,9 +23,11 @@ nav:
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
+  text="Address: Bldg 112, Rm 303"
   link="https://www.google.com/maps/place/2160+S+1st+Ave,+Maywood,+IL+60153/data=!4m2!3m1!1s0x880e35788abe158b:0x692f31330a04c8b2?sa=X&ved=1t:242&ictx=111"
 %}
 
+{% include section.html %}
 <div style="text-align: center;">
 For more information about our research, data resources, or potential collaborations, please feel free to reach out by email.
 <br>
