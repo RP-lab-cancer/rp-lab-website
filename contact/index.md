@@ -10,24 +10,24 @@ nav:
 <div style="text-align: center;">
 For more information about our research, data resources, or potential collaborations, please feel free to reach out by email.
 <br>
-Prospective **students** and **postdoctoral fellows** should send their CV and a summary of research interests.
+Prospective <strong>students</strong> and <strong>postdoctoral fellows</strong> should send their CV and a summary of research interests.
   <br>
-**Collaborators** should include relevant background or project ideas. We are interested in collaborations related to:
-- breast cancer
-  - patient-centered research
-  - susceptibility
-  - initiation
-  - progression
-  - therapy resistance
-- RNA biology
-  - long non-coding RNAs
-  - microRNAs
-  - structure-function studies
-  - tissue-specificity
-  - role in normal development and in cancer
-- translational research
-- computational approaches
-</div>div>
+<strong>Collaborators</strong> should include relevant background or project ideas. We are interested in collaborations related to:<br>
+- breast cancer<br>
+  - patient-centered research<br>
+  - susceptibility<br>
+  - initiation<br>
+  - progression<br>
+  - therapy resistance<br>
+- RNA biology<br>
+  - long non-coding RNAs<br>
+  - microRNAs<br>
+  - structure-function studies<br>
+  - tissue-specificity<br>
+  - role in normal development and in cancer<br>
+- translational research<br>
+- computational approaches<br>
+</div>
 
 {%
   include button.html
