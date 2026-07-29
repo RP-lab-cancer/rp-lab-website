@@ -1,4 +1,4 @@
-- title: LncRNA Structure-Function Relationship
+- title: Long Non-coding RNAs in Cancer
   subtitle: Is there a "grammar" for lncRNA structures analogous to protein domains?
   group: featured
   image: images/projects/MUNC_structure.jpg
@@ -12,8 +12,8 @@
   link: /projects/BC_initiation
   description: We investigate how rare populations of premalignant cells acquire the ability to survive and initiate breast cancer. By combining human genetics, patient samples, and experimental models, we aim to identify the molecular mechanisms that determine whether DCIS remains indolent or progresses to invasive disease.
 
-- title: Zero-Passage Patient-Derived Organoids
-  subtitle: Modeling patient-specific responses in a two-week time frame
+- title: Patient-Centered Breast Cancer Research
+  subtitle: Modeling patient-specific responses in a two-week time frame using zero-passage patient-derived organoids
   image: images/projects/Organoid_TAM.jpg
   link: /projects/BC_organoids
   description: To accurately capture tumor state within patient samples, we developed a zero-passage approach to primary patient-derived breast cancer organoids. This new system directly benefits basic science and has the potential to guide the choice of individualized therapeutics in the clinic.
