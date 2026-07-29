@@ -30,9 +30,9 @@ nav:
 {% include section.html %}
 <div style="text-align: center;">
 For more information about our research, data resources, or potential collaborations, please feel free to reach out by email.
-<br>
+<br><br>
 Prospective <strong>students</strong> and <strong>postdoctoral fellows</strong> should send their CV and a summary of research interests.
-  <br>
+  <br><br>
 <strong>Collaborators</strong> should include relevant background or project ideas. We are interested in collaborations related to:<br></div>
 
 {% capture col1 %}
