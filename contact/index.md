@@ -35,8 +35,6 @@ Prospective <strong>students</strong> and <strong>postdoctoral fellows</strong> 
   <br>
 <strong>Collaborators</strong> should include relevant background or project ideas. We are interested in collaborations related to:<br></div>
 
-{% include section.html %}
-
 {% capture col1 %}
 Breast cancer
   - patient-centered research
