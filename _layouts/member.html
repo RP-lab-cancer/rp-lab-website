@@ -34,7 +34,7 @@ layout: default
 
 <p class="center">
   <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
+    Search for the papers on the Research page
   </a>
 </p>
 
@@ -42,10 +42,8 @@ layout: default
   blog/?search={{ page.name }}
 {%- endcapture %}
 
-<!--
 <p class="center">
   <a href="{{ search | relative_url | uri_escape }}">
-    See {{ page.name | default: page.title }}'s posts on the Blog page
+    See posts on the Blog page
   </a>
 </p>
--->
