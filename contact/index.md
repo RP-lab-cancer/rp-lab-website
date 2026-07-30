@@ -67,7 +67,11 @@ And more:
 {% include section.html dark=true %}
 
 {% capture col1 %}
+**Scientific inquiries:**
+rprzanowska@luc.edu
 
+**Breast Cancer Initiation:**
+pprzanowski@luc.edu
 {% endcapture %}
 
 {% capture col2 %}
