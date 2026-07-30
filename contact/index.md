@@ -76,10 +76,6 @@ Maywood, IL 60153
 {% endcapture %}
 
 {% capture col2 %}
-
-{% endcapture %}
-
-{% capture col3 %}
 {%
   include button.html
   type="email"
@@ -94,7 +90,7 @@ Maywood, IL 60153
 %}
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
