@@ -67,13 +67,18 @@ And more:
 {% include section.html dark=true %}
 
 {% capture col1 %}
-<div style="text-align: left;">
-<strong>Scientific inquiries:</strong><br>
-rprzanowska@luc.edu<br><br>
-
-<strong>Breast Cancer Initiation:</strong><br>
-pprzanowski@luc.edu<br>
-</div>
+{%
+  include button.html
+  type="email"
+  text="Scientific Inquiries"
+  link="rprzanowska@luc.edu"
+%}
+{%
+  include button.html
+  type="email"
+  text="Breast Cancer Initiation"
+  link="pprzanowski@luc.edu"
+%}
 {% endcapture %}
 
 {% capture col2 %}
