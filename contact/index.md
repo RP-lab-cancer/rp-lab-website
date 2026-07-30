@@ -67,11 +67,13 @@ And more:
 {% include section.html dark=true %}
 
 {% capture col1 %}
-**Scientific inquiries:**
-rprzanowska@luc.edu
+<div style="text-align: left;">
+<strong>Scientific inquiries:</strong><br>
+rprzanowska@luc.edu<br><br>
 
-**Breast Cancer Initiation:**
-pprzanowski@luc.edu
+<strong>Breast Cancer Initiation:</strong><br>
+pprzanowski@luc.edu<br>
+</div>
 {% endcapture %}
 
 {% capture col2 %}
