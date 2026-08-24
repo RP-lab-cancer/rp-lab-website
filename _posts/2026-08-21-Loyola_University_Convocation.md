@@ -1,7 +1,7 @@
 ---
 title: University Convocation
 date: 2026-08-21
-image: images/posts/20260821_convocation.jpg
+image: images/posts/20260821_convocation_lake.jpg
 author: roza-przanowska
 tags: Convocation, LakeShoreCampus
 ---
