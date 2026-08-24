@@ -10,6 +10,6 @@ Drs. Róża and Piotr Przanowscy officially said goodbye to their home in Virgin
 
 {%
   include figure.html
-  image="images/contact/moving.jpg"
+  image="images/posts/moving.jpg"
   caption="Good journal put to unexpected use"
 %}
