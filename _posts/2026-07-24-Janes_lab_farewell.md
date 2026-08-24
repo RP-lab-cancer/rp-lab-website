@@ -3,7 +3,7 @@ title: Janes lab goodbye
 date: 2026-07-24
 image: images/posts/lab_goodbye.jpg
 author: roza-przanowska
-tags: Janes lab, moving, farewell
+tags: postdoc, moving, farewell
 ---
 
 One final lunch in our lab's favorite restaurant, Inka, on the famous UVA Corner. Thank you, everyone, for coming to say goodbye and for all the gifts and wishes! To all the postdocs departing at the same time: all the best in your future endeavors. 
