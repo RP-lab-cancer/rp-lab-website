@@ -1,7 +1,7 @@
 ---
 title: BME Postdocs goodbye
 date: 2026-08-03
-image: images/posts/lab_goodbye.jpg
+image: images/posts/postdoc_goodbye.jpg
 author: roza-przanowska
 tags: BME, Postdocs, farewell
 ---
