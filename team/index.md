@@ -28,6 +28,7 @@ nav:
 {% capture content %}
 
 {% include figure.html image="images/people/ice_bucket.jpg" %}
+{% include figure.html image="images/people/PXL_20261010_215659747.jpg" %}
 
 {% endcapture %}
 
