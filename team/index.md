@@ -16,6 +16,12 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'master'" %} 
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
+{% include section.html %}
+
+## Patient Advocate Partners
+
+{% include list.html data="members" component="portrait" filter="role == 'patient-advocate'" %}
+
 {% include section.html background="images/main/background.jpg" dark=true %}
 <div style="text-align: center;">
  "You cannot hope to build a better world without improving the individuals. To that end, each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful." 
