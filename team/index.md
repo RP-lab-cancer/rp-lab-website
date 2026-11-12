@@ -16,7 +16,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'master'" %} 
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
-{% include section.html %}
+{% include section.html %} 
 
 ## Patient Advocate Partners
 
