@@ -2,12 +2,12 @@
 name: Crystal Hendricks-Kretzer
 image: images/members/CRHK_Headshot.jpg
 role: patient-advocate
-affiliation: Patient advocate, Grant writing, Fundraising Communications
+affiliation: Patient advocate, Grant writing, Fundraising communications
 aliases:
   - Hendricks-Kretzer
 links:
   home-page: https://www.crystalraecreative.com/
-  linkedin: https://www.linkedin.com/in/crystal-rhk/
+  linkedin: /crystal-rhk/
 ---
 
 **BIO**
