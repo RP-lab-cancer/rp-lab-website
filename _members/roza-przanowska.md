@@ -10,9 +10,9 @@ links:
   email: rprzanowska@luc.edu
   orcid: 0000-0003-1278-6242
   google-scholar: https://scholar.google.com/citations?user=jSZKh4gAAAAJ&hl=pl
-  github: /RP-lab-cancer
-  linkedin: /r%C3%B3%C5%BCa-przanowska-459658174/
-  bluesky: /rprzanowska.bsky.social
+  github: RP-lab-cancer
+  linkedin: r%C3%B3%C5%BCa-przanowska-459658174/
+  bluesky: rprzanowska.bsky.social
   twitter: rprzanowska
 ---
 
