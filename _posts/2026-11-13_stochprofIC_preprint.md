@@ -12,6 +12,6 @@ New preprint on stochprofIC is here: a method that separates noise and batch eff
 {%
   include figure.html
   image="images/posts/20261113_stochprofIC.png"
-  caption="Thankful for fruitful collaboration"
+  caption="Thankful for another fruitful collaboration"
   link="https://www.biorxiv.org/content/10.64898/2026.11.09.765210v1"
 %}
