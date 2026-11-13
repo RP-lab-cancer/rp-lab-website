@@ -7,7 +7,7 @@ aliases:
   - Hendricks-Kretzer
 links:
   home-page: https://www.crystalraecreative.com/
-  linkedin: /crystal-rhk/
+  linkedin: crystal-rhk/
 ---
 
 **BIO**
