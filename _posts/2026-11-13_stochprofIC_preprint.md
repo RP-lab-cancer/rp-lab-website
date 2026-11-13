@@ -1,5 +1,5 @@
 ---
-title: Preprint alert: stochprofIC is out
+title: "Preprint alert: stochprofIC is out"
 date: 2026-11-13
 image: images/posts/20261113_stochprofIC.png
 author: roza-przanowska
